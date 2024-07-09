@@ -1,0 +1,6 @@
+eli5==0.13.0
+sickit-learn==1.5.2
+beautifulsoup4==4.12.3
+lxml==4.9.2
+selenium==3.141.0
+webdriver-manager==4.0.1
