@@ -1,1 +1,5 @@
 Baseline/
+data/
+sampled_data.csv
+address.txt
+.DS_Store
