@@ -31,25 +31,25 @@ $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n(y_i - \hat y_i)^2} $$
 ## 2. Components
 
 ### Directory
-upstage-ml-regression-ml11
-├── README.md
-├── requirements.txt
-├── docs ## 발표자료
-│   └── pdf
-│       └── [패스트캠퍼스] Upstage AI Lab 3기_그룹 스터디11조.pptx
-├── images ## README images
-└── src ## 팀원별 작업 폴더
-    ├── 기현우
-    ├── 조수한
-    ├── 김민준
-    │   ├── crawling
-    │   ├── eda
-    │   └── model
-    └── 김홍석
-        ├── EDA
-        ├── README.md
-        ├── model
-        └── submission
+    upstage-ml-regression-ml11
+    ├── README.md
+    ├── requirements.txt
+    ├── docs  ## 발표자료
+    │   └── pdf
+    │       └── [패스트캠퍼스] Upstage AI Lab 3기_그룹 스터디11조.pptx
+    ├── images ## README images
+    └── src ## 팀원별 작업 폴더
+        ├── 기현우
+        ├── 조수한
+        ├── 김민준
+        │   ├── crawling
+        │   ├── eda
+        │   └── model
+        └── 김홍석
+            ├── EDA
+            ├── README.md
+            ├── model
+            └── submission
 
 
 ## 3. Data descrption
