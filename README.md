@@ -3,9 +3,9 @@
 
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://velog.velcdn.com/images/sususushahaha/post/013d0558-355c-4ae4-8ef3-1a8fcb939d47/image.png) | 
+| ![기현우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![조수한](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민준](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김홍석](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| 
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | 
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            
+|            [기현우](https://github.com/UpstageAILab)             |            [조수한](https://github.com/UpstageAILab)             |            [김민준](https://github.com/UpstageAILab)             |            [김홍석](https://github.com/UpstageAILab)             |            
 |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                             |                            EDA, Feature Engineering, Modeling                    
 
 ## 1. Competiton Info
