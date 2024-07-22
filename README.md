@@ -3,7 +3,7 @@
 
 ## Team
 
-| ![기현우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![조수한](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민준](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김홍석](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| 
+| ![기현우](https://avatars.githubusercontent.com/u/156163982?v=4) | ![조수한](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김민준](https://github.com/user-attachments/assets/8c83a17e-2785-411c-b4e0-4ce2e9365805)| ![김홍석](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| 
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | 
 |            [기현우](https://github.com/UpstageAILab)             |            [조수한](https://github.com/UpstageAILab)             |            [김민준](https://github.com/UpstageAILab)             |            [김홍석](https://github.com/UpstageAILab)             |            
 |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                             |                            EDA, Feature Engineering, Modeling                    
