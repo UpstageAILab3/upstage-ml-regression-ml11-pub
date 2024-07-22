@@ -33,7 +33,8 @@
 
 ### Dataset overview
 
-- _Explain using data_
+- _![스크린샷 2024-07-22 오전 10 10 14](https://github.com/user-attachments/assets/9e25ff77-98dc-407e-91fa-c7832cbd69ff)
+Explain using data_
 
 ### EDA
 
