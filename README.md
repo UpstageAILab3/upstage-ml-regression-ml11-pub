@@ -57,23 +57,20 @@ Explain using data_
 ## 5. Result
 
 ### Leader Board
-
-- _Insert Leader Board Capture_
+- 최종순위(1등) 10978.4676
 ![image](https://github.com/user-attachments/assets/6219e72d-4aac-4b97-a550-dd6a5bf3f0c6)
 
-![image-1](https://github.com/user-attachments/assets/a424ebe8-fd8b-45d3-b9de-bf75ec1d4d03)
-
-- _Write rank and score_
 
 ### Presentation
-
-- _Insert your presentaion file(pdf) link_
+[[패스트캠퍼스] Upstage AI Lab  3기 11조_아파트 실거래가 예측.pptx.pdf](https://github.com/user-attachments/files/16326799/Upstage.AI.Lab.3.11._.pptx.pdf)
 
 ## etc
 
 ### Meeting Log
 
-- _Insert your meeting log link like Notion or Google Docs_
+- Notion
+  https://www.notion.so/11-9db3a242427d490c9a488810d1d6b91d?p=46dd4fdcd04547f5b777f72133ab0797&pm=c
+* Zoom 실시간 미팅(18:00~19:00)
 
 ### Reference
 
