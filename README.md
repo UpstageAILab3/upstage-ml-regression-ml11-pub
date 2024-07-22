@@ -59,6 +59,10 @@ Explain using data_
 ### Leader Board
 
 - _Insert Leader Board Capture_
+![image](https://github.com/user-attachments/assets/6219e72d-4aac-4b97-a550-dd6a5bf3f0c6)
+
+![image-1](https://github.com/user-attachments/assets/a424ebe8-fd8b-45d3-b9de-bf75ec1d4d03)
+
 - _Write rank and score_
 
 ### Presentation
