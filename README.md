@@ -3,7 +3,7 @@
 
 ## Team
 
-| ![기현우](https://github.com/user-attachments/assets/446f86a6-a08a-4d60-a846-4e470b031ad1)| ![조수한](https://github.com/user-attachments/assets/e1160f18-4441-4156-bd58-f5be8e076782)| ![김민준](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| ![김홍석](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| 
+| ![기현우](https://github.com/user-attachments/assets/446f86a6-a08a-4d60-a846-4e470b031ad1)| ![조수한](https://github.com/user-attachments/assets/e1160f18-4441-4156-bd58-f5be8e076782)| ![김민준](https://github.com/user-attachments/assets/3a6a96ca-3d4e-4669-b5c9-19a3cca18a7a)| ![김홍석](https://github.com/user-attachments/assets/b0a17b67-255d-4eec-9303-b39673ef2352)| 
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | 
 |            [기현우](https://github.com/UpstageAILab)             |            [조수한](https://github.com/UpstageAILab)             |            [김민준](https://github.com/UpstageAILab)             |            [김홍석](https://github.com/UpstageAILab)             |            
 |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                            |                            EDA, Feature Engineering, Modeling                             |                            EDA, Feature Engineering, Modeling                    
