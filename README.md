@@ -138,6 +138,7 @@ $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n(y_i - \hat y_i)^2} $$
     - etc..
 
 2. GDP, 금리, 인플레이션
+
 ![images](./images/GDP.png)
 
 - 외부 데이터 활용
@@ -145,23 +146,31 @@ $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n(y_i - \hat y_i)^2} $$
 
 
 3. 거래량, 구별 지가지수
+
 ![images](./images/거래량,%20구별%20지가지수.png)
+
 - 외부 데이터 활용
 - 계약년월, 구+계약년월에 맞춰 적용
 
 
 4. 공시지가 평균, 매수우위지수
+
 ![images](./images/매수우위지수.png)
+
 - 외부 데이터 활용
 
 
 5. 30년이상 50년이하
+
 ![images](./images/건물나이%20그래프.png)
+
 - 건물나이가 30년부터 가격이 상승
 - 50년 이후로 다시 하락
 
 6. 아파트, 지하철 카테고리
+
 ![images](./images/아파트,%20지하철%20카테고리.png)
+
 - 아파트 이름에 특정 단어가 들어있는지 확인
 - 지하철 노선 확인
 - 카테고리화 
@@ -175,19 +184,25 @@ $$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n(y_i - \hat y_i)^2} $$
 - np.sin(2 * np.pi * df[‘계약월'] / 12)
 
 ### feature selection
-![images](./images/feature%20importance.png)
+
 1. Feature Importance
+
+![images](./images/feature%20importance.png)
+
 - 모델 생성 후 feature importance 값 참고
 - 8개의 feature 선택
 
 
 2. Feed Forward Selection
+
 ![images](./images/Feed%20Forward%20Selection.png)
+
 - feature를 추가할 때마다 새로운 모델 생성
 - 성능이 좋아지면 해당 feature 사용
 
 
 ### 최종 모델에 사용한 feature
+
 ![images](./images/최종%20모델에%20사용한%20feature.png)
 
 ## 4. Modeling
