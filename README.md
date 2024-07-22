@@ -12,22 +12,45 @@
 
 ### Overview
 
-- _Write competition information_
+- 이번 대회는 Upstage Ai Lab 3기에서 진행한 ```서울시 부동산 가격예측``` 대회 입니다.
+
+- 데이터셋은 ```train.csv```, ```test.csv```, ```subway.csv```, ```bust.csv```로 총 4가지의 파일이 주어집니다.
+
+- 데이터셋과 모델링과 같은 상세 내용은 아래 단원들에서 소개하겠습니다.
 
 ### Timeline
 
-- ex) January 10, 2024 - Start Date
-- ex) February 10, 2024 - Final submission deadline
+- 시작일 : 2024.07.09
+- 종료일 : 2024.07.19
+
 
 ### Evaluation
 
-- _Write how to evaluate model_
+$$ RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^n(y_i - \hat y_i)^2} $$
 
 ## 2. Components
 
 ### Directory
+upstage-ml-regression-ml11
+├── README.md
+├── requirements.txt
+├── docs ## 발표자료
+│   └── pdf
+│       └── [패스트캠퍼스] Upstage AI Lab 3기_그룹 스터디11조.pptx
+├── images ## README images
+└── src ## 팀원별 작업 폴더
+    ├── 기현우
+    ├── 조수한
+    ├── 김민준
+    │   ├── crawling
+    │   ├── eda
+    │   └── model
+    └── 김홍석
+        ├── EDA
+        ├── README.md
+        ├── model
+        └── submission
 
-- _Insert your directory structure_
 
 ## 3. Data descrption
 
